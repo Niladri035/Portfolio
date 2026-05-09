@@ -4,7 +4,7 @@ import PortfolioSection from './PortfolioSection'
 import ProjectsSection from './ProjectsSection'
 import SkillsSection from './SkillsSection'
 import ContactFooter from './ContactFooter'
-import { initScroll } from './scroll.js'
+import { initScroll } from './scroll'
 
 const EMAIL    = 'santraniladri57@gmail.com'
 const GITHUB   = 'https://github.com/Niladri035'
